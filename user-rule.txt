@@ -1,4 +1,9 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 
-||wappalyzer.com^
+||hub.docker.com^
+
+||assets-cdn.github.com^
+||githubusercontent.com^
+||githubapp.com^
+||github.io^
