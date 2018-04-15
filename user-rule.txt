@@ -7,3 +7,5 @@
 ||githubusercontent.com^
 ||githubapp.com^
 ||github.io^
+
+||storage.googleapis.com^
