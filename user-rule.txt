@@ -9,3 +9,5 @@
 ||github.io^
 
 ||storage.googleapis.com^
+
+||caddyserver.com^
