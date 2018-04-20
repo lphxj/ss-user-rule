@@ -2,3 +2,5 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 
 ||wappalyzer.com^
+
+||vultr.com^
