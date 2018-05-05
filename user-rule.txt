@@ -11,3 +11,7 @@
 ||storage.googleapis.com^
 
 ||caddyserver.com^
+
+||my.vultr.com^
+
+||wolfogre.com^
