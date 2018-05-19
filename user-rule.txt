@@ -14,8 +14,6 @@
 
 ||my.vultr.com^
 
-||wolfogre.com^
-
 ||slack.com^
 ||slack-edge.com^
 ||amazonaws.com^
