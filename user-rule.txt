@@ -4,3 +4,5 @@
 ||wappalyzer.com^
 
 ||vultr.com^
+
+||coderelease.io^
