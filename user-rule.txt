@@ -8,3 +8,5 @@
 ||coderelease.io^
 
 ||gitbooks.io^
+
+||slack.com^
